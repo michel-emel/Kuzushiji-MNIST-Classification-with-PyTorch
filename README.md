@@ -1,12 +1,10 @@
-Here's the markdown code for the README based on your project's current state:
-
 # Kuzushiji-MNIST Classification with PyTorch
 
 ## Project Overview
 This project focuses on classifying Kuzushiji characters using Convolutional Neural Networks (CNNs) implemented in PyTorch. The CNN model is trained on the Kuzushiji-MNIST (KMNIST) dataset, which includes various characters. The goal is to build a model that can accurately classify images into their respective character categories.
 
 ## Project Structure
-- **KMNIST_Classification.ipynb**: Jupyter Notebook containing the code for data preparation, model training, and evaluation.
+- **KMNIST_Classification_with_CNN.ipynb**: Jupyter Notebook containing the code for data preparation, model training, and evaluation.
 - **README.md**: This file.
 
 ## Data Preparation
