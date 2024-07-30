@@ -1,6 +1,5 @@
 Here's the markdown code for the README based on your project's current state:
 
-```markdown
 # Kuzushiji-MNIST Classification with PyTorch
 
 ## Project Overview
